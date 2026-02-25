@@ -36,11 +36,11 @@ Key metrics include projected job openings, job growth percentage, automation ri
 ---
 
 ## Key Insights
-- Identified industries where **AI is driving job creation and role expansion**  
-- Highlighted locations expected to see **increased AI-driven employment opportunities**  
-- Analyzed job titles that are **emerging or evolving due to AI adoption**  
-- Compared projected job openings across AI impact levels to understand **future growth potential**  
-- Visualized salary and experience trends for **future-ready roles**  
+- Identified emerging AI job roles likely to create new employment opportunities
+- Highlighted high-growth skills and roles using Excel Pivot Tables
+- Used conditional formatting to visually emphasize demand spikes and trend changes
+- Analyzed how AI adoption is creating new job categories rather than only replacing roles
+- Presented future-focused insights through Power BI dashboards
 
 ---
 
