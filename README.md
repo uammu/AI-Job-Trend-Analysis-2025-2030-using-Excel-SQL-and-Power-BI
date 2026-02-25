@@ -9,9 +9,17 @@ The objective is to identify **industry-wise, location-wise, and job title-wise 
 ---
 
 ## Tools & Technologies
-- **Excel** – data cleaning, preprocessing, and data preparation  
-- **SQL** – querying, aggregation, and trend analysis by year, industry, and location  
-- **Power BI** – interactive dashboards to visualize job growth and emerging opportunities  
+*Excel**
+  - Data cleaning and preprocessing
+  - Pivot Tables for summarizing job roles, skills, and trends
+  - Conditional Formatting to highlight demand patterns and growth areas
+- **SQL**
+  - Querying AI job data
+  - Aggregation and trend analysis by role, location, and impact level
+- **Power BI**
+  - Interactive dashboards
+  - Visualizations showing emerging AI job opportunities and future trends
+
 
 ---
 
